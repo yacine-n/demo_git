@@ -9,4 +9,4 @@ une demo de git qui se passe bien
 
 et maintenant on modifie depuis github
 
-puis depuis ma machine
+puis depuis ma machine et c'est cool depuis github
