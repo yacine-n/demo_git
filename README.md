@@ -1,6 +1,8 @@
 # demo_git
 une demo git
 
-une demo de git qui se passe bien
+APPRENEZ COMME UN FOU ET PRATIQUEZ COMME UN AFFAME
 
-Apprenez comme un fou et pratiquez comme un affamé
+GIRL CODER/ SELF-CONFIDENCE
+
+une demo de git qui se passe bien
